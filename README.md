@@ -1,3 +1,4 @@
+[logo](Profile.png)
 <h1 align="center">Hi 👋, I'm Samruddhi Jadhav</h1>
 <h3 align="center">A passionate Software Engineer | Data Analyst | AWS Certified | DevOps Enthusiast | Passionate About Automation and Cloud Solutions from India</h3>
 
