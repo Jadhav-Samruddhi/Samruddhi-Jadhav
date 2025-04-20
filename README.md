@@ -14,6 +14,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WHZ3kZIANfIcBNrxs9jO2mze4zCAahvD/view?usp=drive_link](https://drive.google.com/file/d/1WHZ3kZIANfIcBNrxs9jO2mze4zCAahvD/view?usp=drive_link)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samruddhi-jadhav-9082b3233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samruddhi-jadhav-9082b3233/" height="30" width="40" /></a>
+ 
+</p>
+
 📂 [View Certifications](./Certificate)
 ## 🎓 Certifications  
 ✅ AWS CERTIFICATE 
@@ -25,10 +31,15 @@
 ✅ Data Structure and Algorithms
 ✅ AWS CERTIFICATE
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samruddhi-jadhav-9082b3233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samruddhi-jadhav-9082b3233/" height="30" width="40" /></a>
-</p>
+## 📂 Portfolio Sections
+## 📊 Power BI Dashboards  
+📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
+
+## 📊 Power BI Dashboards  
+📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
+
+## 📊 Power BI Dashboards  
+📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
