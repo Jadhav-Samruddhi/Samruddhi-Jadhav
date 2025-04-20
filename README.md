@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WHZ3kZIANfIcBNrxs9jO2mze4zCAahvD/view?usp=drive_link](https://drive.google.com/file/d/1WHZ3kZIANfIcBNrxs9jO2mze4zCAahvD/view?usp=drive_link)
 
-📂 [View Certifications](./Certifications)
+📂 [View Certifications](./Certificate)
 ## 🎓 Certifications  
 ✅ AWS CERTIFICATE 
 ✅ Technogeeks_Devops_Training
