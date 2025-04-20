@@ -32,11 +32,11 @@
 ✅ AWS CERTIFICATE
 
 ## 📂 Portfolio Sections
-## 📊 Power BI Dashboards  
-📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
+## 📊 Sentiment Analysis on Online Social Networking Sites using Slangs 
+📂 **Btech Project** → [BTECH Folder](./PowerBI/)
 
-## 📊 Power BI Dashboards  
-📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
+## 📊 Ansible  
+📂 **View All Ansible Project** → [Ansible Folder](./PowerBI/)
 
 ## 📊 Power BI Dashboards  
 📂 **View All Power BI Dashboards** → [Power BI Folder](./PowerBI/)
